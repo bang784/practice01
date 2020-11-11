@@ -9,7 +9,7 @@ public class Ex10 {
 		int x;
 		System.out.println(x);
 		
-		
+		// 정수형 int라고만 정의만 했지, 숫자를 말하지 않았다!!
 	}
 
 }
